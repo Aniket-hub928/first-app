@@ -1,0 +1,56 @@
+{
+    "vehicles":[
+        {
+            "id":1,
+            "image":"https://images.pexels.com/photos/20137064/pexels-photo-20137064/free-photo-of-toyota-hilux-in-forest-in-winter.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Toyota Hilux",
+            "price":20000,
+            "mileage":15000,
+            "color":"Ash Grey",
+            "seats":7,
+            "fuel":"Petrol",
+            "gear":"Manual",
+            "description":"Reliable truck"
+        },
+
+        
+        {
+            "id":2,
+            "image":"https://motoroctane.com/wp-content/uploads/2020/11/idumban-11.jpg",
+            "name":"Ford Endeavour",
+            "price":50000,
+            "mileage":15000,
+            "color":"Black",
+            "seats":7,
+            "fuel":"Petrol",
+            "gear":"Manual",
+            "description":"Beast"
+        },
+        
+        {
+            "id":3,
+            "image":"https://images.pexels.com/photos/5214397/pexels-photo-5214397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Camaro",
+            "price":30000,
+            "mileage":15000,
+            "color":"White",
+            "seats":2,
+            "fuel":"Petrol",
+            "gear":"Manual",
+            "description":"Muscle car"
+        },
+        
+        {
+            "id":4,
+            "image":"https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Toyota Corolla",
+            "price":20000,
+            "mileage":15000,
+            "color":"White",
+            "seats":5,
+            "fuel":"Petrol",
+            "gear":"Automatic",
+            "description":"A reliable family car"
+        }
+    ]
+}
